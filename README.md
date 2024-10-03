@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @p1rzival
-- 👀 I’m interested in programming and games! I so like sport.
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Daniil SAIKO
+- 👀 I am web developer on JavaScript
+- 🌱 Passionately love to discover smt new in programming
 - 📫 How to reach me p1rzival@gmail.com
 
 <!---
